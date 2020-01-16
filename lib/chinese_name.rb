@@ -42,7 +42,7 @@ module ChineseName
     Const::GIVEN_NAME_NORMAL.sample(random).join
   end
 
-  def name
+  def fullname
     "#{family_name}#{given_name}"
   end
 
