@@ -30,6 +30,11 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
+## References
+
+- https://www.zhihu.com/question/22389278
+- https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A7%93%E6%B0%8F%E6%8E%92%E5%90%8D#2019%E5%B9%B41%E6%9C%88
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/bkbabydp/gem_chinese_name. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/bkbabydp/gem_chinese_name/blob/master/CODE_OF_CONDUCT.md).
